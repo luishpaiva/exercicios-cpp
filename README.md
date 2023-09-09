@@ -73,5 +73,3 @@ seguir:</p>
 <hr>
 
 <p align="justify">7. Elaborar um algoritmo que leia o percurso, em quilômetros, o tipo do carro e informe o consumo estimado de combustível, sabendo-se que o carro tipo C faz 12 km com 1 litro de gasolina, um carro do tipo B faz 9 km e o tipo A faz 8 km por litro.</p>
-
-<hr>
